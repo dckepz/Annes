@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="1000"
+    android:viewportHeight="1000">
+
+    <!-- 1. Upper Left Diagonal Stroke (Gold) -->
+    <path
+        android:pathData="M 395,70 L 230,490"
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="78"
+        android:strokeLineCap="square" />
+
+    <!-- 2. Outer Left Diagonal Leg + Horizontal Bar -->
+    <path
+        android:pathData="M 50,925 L 215,550 L 545,550"
+        android:strokeColor="#111111"
+        android:strokeWidth="78"
+        android:strokeLineCap="square"
+        android:strokeLineJoin="miter" />
+
+    <!-- 3. Top Apex Down-Left Diagonal Stroke -->
+    <path
+        android:pathData="M 590,75 L 405,490"
+        android:strokeColor="#111111"
+        android:strokeWidth="78"
+        android:strokeLineCap="square" />
+
+    <!-- 4. Outer Right Main Leg -->
+    <path
+        android:pathData="M 590,75 L 945,925"
+        android:strokeColor="#111111"
+        android:strokeWidth="78"
+        android:strokeLineCap="square" />
+
+    <!-- 5. Inner Left Chevron (Gold) -->
+    <path
+        android:pathData="M 235,925 L 335,710 L 610,710"
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="78"
+        android:strokeLineCap="square"
+        android:strokeLineJoin="miter" />
+
+    <!-- 6. Inner Right Diagonal Stroke (Gold) -->
+    <path
+        android:pathData="M 545,380 L 785,925"
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="78"
+        android:strokeLineCap="square" />
+</vector>
