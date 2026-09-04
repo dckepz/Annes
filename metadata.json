@@ -1,0 +1,6 @@
+{
+  "name": "Anne's Fashion Line",
+  "description": "Official boutique POS, inventory, pre-orders, and cloud management system for Anne's Fashion Line.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
